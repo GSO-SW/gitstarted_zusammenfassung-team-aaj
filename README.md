@@ -10,6 +10,13 @@ In diesem Repo soll zusammengefasst werden, was man für die Arbeit mit git und 
 ## TODO
 - Begriffe definieren und erklären (z.B. repository, branch etc.)
 - git Befehle für die Arbeit mit lokalen Repositories (inkl. Erläuterungen)
+  + git init: erstellen von Repositorie und Staging Area in einem Ordner.
+  + git log: Änderungsverlauf der Repositorie
+  + git status: zeigt Inhalte, die nicht commitet sind.
+  + git branch 'name': erstellt ein loakler Arbeisbereich. (gut für Testzwecke)
+  + git add (Datei Name)/*: fügt die Dateien zum Satging Area.
+  + git commit: erstellt ein Commit mit dem Inhalt in der Satging Area
+  
 - git Befehle für die Arbeit mit entfernten Repositories (inkl. Erläuterungen)
   + git clone: Inhale der lokalen Repositories entsprechend der entfernten Repositories aktualisieren
   + git merge: lokal bearbeitete Commits mit dem entfernten Repositories Stand zusammenfügen.
