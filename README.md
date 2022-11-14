@@ -29,5 +29,5 @@ In diesem Repo soll zusammengefasst werden, was man für die Arbeit mit git und 
   - Polymorphie
 	+ Wenn man von der Mutterklasse auf Eigenschaften der Kinderklassen zugreifen kann
 - Wie überschreibt man die Methode `virtual string ToString()`?
--	+ public override ToString();
+  -	+ public override ToString();
 
