@@ -15,8 +15,15 @@ In diesem Repo soll zusammengefasst werden, was man für die Arbeit mit git und 
 ## TODO2
 - Fachbegriffe OOP erklären (mit Beispielen)
   - abstract (Klassen)
+	+ Keine Objekte können erstellt werden
   - abstract (Methoden)
+	+ Kinderklassen müssen diese Methode überschreiben
   - virtual
+	+ kann in den Kinderklassen überschrieben werden
   - override
+	+ Überschreibt Methoden in der Mutterklasse
   - Polymorphie
+	+ Wenn man von der Mutterklasse auf Eigenschaften der Kinderklassen zugreifen kann
 - Wie überschreibt man die Methode `virtual string ToString()`?
+	+ public override ToString();
+
