@@ -11,6 +11,10 @@ In diesem Repo soll zusammengefasst werden, was man für die Arbeit mit git und 
 - Begriffe definieren und erklären (z.B. repository, branch etc.)
 - git Befehle für die Arbeit mit lokalen Repositories (inkl. Erläuterungen)
 - git Befehle für die Arbeit mit entfernten Repositories (inkl. Erläuterungen)
+  + git clone: Inhale der lokalen Repositories entsprechend der entfernten Repositories aktualisieren
+  + git merge: lokal bearbeitete Commits mit dem entfernten Repositories Stand zusammenfügen.
+  + git pull: git clone + git merge. Da meistens die beide Befähle zusammengehören
+  + git push: lokale commits zum entfernten Repositories pushen.
 
 ## TODO2
 - Fachbegriffe OOP erklären (mit Beispielen)
